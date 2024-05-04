@@ -39489,10 +39489,10 @@ s.toString
 r=A.aic(q,s)
 s=A.mL(q,!0)
 s.k9(A.aro(null,B.w,!0,null,new A.a5r(a),q,null,r,B.vI,!0,t.z))},
-V6(){var s=document.createElement("a")
-s.href="/apk-release.apk"
-s.setAttribute("download","apk-release.apk")
-s.click()},
+V6(){var s="apk-release.apk",r=document.createElement("a")
+r.href=s
+r.setAttribute("download",s)
+r.click()},
 O(a){var s,r=this,q=null,p="pm10Grade1h",o="pm25Grade1h",n=A.io("\ubbf8\uc138\uba3c\uc9c0 \ud604\ud669",q,q,q,A.fP(q,q,q,q,q,q,q,q,q,q,q,q,q,q,B.bR,q,q,!0,q,q,q,q,q,q,q,q),q,q),m=r.Tz(),l=A.jm(q,20,q),k=r.r
 if(k.a!==0){k=k.k(0,"stationName")
 k=r.E9("\uce21\uc815\uc18c",k==null?"":k)
