@@ -39430,7 +39430,7 @@ gp(a){return a.length}}
 A.Ju.prototype={}
 A.F6.prototype={
 O(a){var s=null
-return new A.uM(new A.ro(s),"\ubbf8\uc138\uba3c\uc9c0 \ud604\ud669",A.ak_(s,B.ee,s),s)}}
+return new A.uM(new A.ro(s),"\uc11c\uc6b8\uc2dc \ubbf8\uc138\uba3c\uc9c0 \ud604\ud669",A.ak_(s,B.ee,s),s)}}
 A.ro.prototype={
 ai(){return new A.xH(A.C(t.N,t.z),B.k)}}
 A.xH.prototype={
@@ -39493,7 +39493,7 @@ V6(){var s=document.createElement("a")
 s.href="https://drive.usercontent.google.com/download?id=15tg9v-6Z7n0iTxZ1YMFEMOW4amfQy8sZ&export=download&authuser=0&confirm=t&uuid=95f670d9-8604-4cc9-9e7a-7f0dd59f7378&at=APZUnTVlYPmUZZMZ0XTbsjYaJyX2:1714828723131"
 s.setAttribute("download","apk-release.apk")
 s.click()},
-O(a){var s,r=this,q=null,p="pm10Grade1h",o="pm25Grade1h",n=A.io("\ubbf8\uc138\uba3c\uc9c0 \ud604\ud669",q,q,q,A.fP(q,q,q,q,q,q,q,q,q,q,q,q,q,q,B.bR,q,q,!0,q,q,q,q,q,q,q,q),q,q),m=r.Tz(),l=A.jm(q,20,q),k=r.r
+O(a){var s,r=this,q=null,p="pm10Grade1h",o="pm25Grade1h",n=A.io("\uc11c\uc6b8\uc2dc \ubbf8\uc138\uba3c\uc9c0 \ud604\ud669",q,q,q,A.fP(q,q,q,q,q,q,q,q,q,q,q,q,q,q,B.bR,q,q,!0,q,q,q,q,q,q,q,q),q,q),m=r.Tz(),l=A.jm(q,20,q),k=r.r
 if(k.a!==0){k=k.k(0,"stationName")
 k=r.E9("\uce21\uc815\uc18c",k==null?"":k)
 s=r.r.k(0,"dataTime")
