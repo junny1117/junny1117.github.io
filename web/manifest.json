@@ -1,6 +1,6 @@
 {
-    "name": "app_seoulair",
-    "short_name": "app_seoulair",
+    "name": "서울 미세먼지",
+    "short_name": "서울 미세먼지",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
