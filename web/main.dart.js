@@ -39490,7 +39490,7 @@ r=A.aic(q,s)
 s=A.mL(q,!0)
 s.k9(A.aro(null,B.w,!0,null,new A.a5r(a),q,null,r,B.vI,!0,t.z))},
 V6(){var s=document.createElement("a")
-s.href="https://drive.usercontent.google.com/download?id=15tg9v-6Z7n0iTxZ1YMFEMOW4amfQy8sZ&export=download&authuser=0&confirm=t&uuid=95f670d9-8604-4cc9-9e7a-7f0dd59f7378&at=APZUnTVlYPmUZZMZ0XTbsjYaJyX2:1714828723131"
+s.href="https://drive.google.com/file/d/15tg9v-6Z7n0iTxZ1YMFEMOW4amfQy8sZ/view?usp=sharing"
 s.setAttribute("download","apk-release.apk")
 s.click()},
 O(a){var s,r=this,q=null,p="pm10Grade1h",o="pm25Grade1h",n=A.io("\uc11c\uc6b8\uc2dc \ubbf8\uc138\uba3c\uc9c0 \ud604\ud669",q,q,q,A.fP(q,q,q,q,q,q,q,q,q,q,q,q,q,q,B.bR,q,q,!0,q,q,q,q,q,q,q,q),q,q),m=r.Tz(),l=A.jm(q,20,q),k=r.r
